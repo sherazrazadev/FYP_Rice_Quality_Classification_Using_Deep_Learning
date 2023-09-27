@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="Dark_purple">#9473CF</color>
+
+    <color name="navigation_bar_color">#FFBB86FC</color>
+    <color name="white">#FFFFFF</color>
+
+</resources>

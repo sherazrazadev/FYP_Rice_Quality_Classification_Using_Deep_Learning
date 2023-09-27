@@ -1,0 +1,71 @@
+<resources>
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+    <string name="default_web_client_id" />
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="not_yet_registered_sign_up">Not yet registered? <font color="#FFBB86FC">Sign Up</font></string>
+    <string name="select">select</string>
+
+    <string name="predict">Predict</string>
+    <string name="results">Results</string>
+    <string name="ricechecker" />
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="select_image">Select Image</string>
+    <string name="profile_image" />
+    <string name="user_name" />
+    <string name="user_email" />
+    <string name="Riceclassify" />
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="signup">SignUp</string>
+    <string name="already_have_an_account_login">Already have an account? Login</string>
+    <string name="sign_in_with_google">Sign In with Google</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="home">Home</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="rate_us_icon_description" />
+    <string name="ic_menu_description" />
+    <string name="please_rate_our_app">Please rate our app</string>
+    <string name="rate_us">Rate Us</string>
+
+
+    <string name="privacy_policy_content" translatable="false">
+    <![CDATA[
+        <p><b>Privacy Policy</b></p>
+
+        <p>Sheraz built the Rice Classify app as classification. This SERVICE is provided by Sheraz and is intended for use as is.</p>
+        <p><b>Information Collection and Use</b></p>
+        <p>The app may collect certain personal information from users. This information is used solely for the purpose of providing and improving the service. We will not use or share your information with anyone except as described in this Privacy Policy.</p>
+        <p><b>Types of Data Collected</b></p>
+        <p>Personal Information: While using our app, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:</p>
+    ]]>
+    </string>
+
+
+
+    <string name="help_text" translatable="false">
+    <![CDATA[
+    Welcome to Rice Classify App!<br><br>
+
+    To use the app, follow these steps:<br>
+    1. Sign up or log in if you already have an account.<br>
+    2. Once logged in, go to the Home page.<br>
+    3. Click on the "Choose Image" button to select an image from the gallery.<br>
+    4. After selecting the image, click the "Predict" button to classify the rice.<br>
+    5. The app will provide the prediction result based on the image.<br>
+    6. You can also explore other options like giving feedback, rating the app, or sharing the app through the navigation drawer.<br><br>
+
+    Enjoy using Rice Classify App! If you have any questions or feedback, feel free to contact us.
+
+    Email: skumbler5@gmail.com
+    mobile no: +923067145010
+    ]]>
+    </string>
+
+
+</resources>
